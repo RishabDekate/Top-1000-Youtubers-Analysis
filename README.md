@@ -132,5 +132,13 @@ Query:
 
 
 ## Data Analysis & Visualization Using Power BI
-### Results and Insights:
+### Dashboard:
 
+![Power BI Dashboard(IMG)](https://github.com/user-attachments/assets/a35c618b-24ab-4914-a7d6-6cdcb1bd077d)
+### Insights:
+- Data consist of 53 countries, with 39 categories, has average subscribers of 22M, and users average visit to a content is 1.2M, average likes that a content creator gets on a video is 53.6K, and with an average comments of 1.3K.
+-  As per the analysis, out of all 39 categories we can say that users like more content of Entertainment
+-  The most users that absorbs the youtube content created by content creators are likely from United States.
+-  Number of subscribers are more in Entertainment channels then other.
+-  T-Series has most highest likes, comments, and subscriberwise compared to other content creators, on second we have Mr.Beast in line.
+-  Number of subscribers are the highest of TSeries then other Youtubers.
