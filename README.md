@@ -129,3 +129,8 @@ Query:
     FROM [Clean_Top_1000_Youtube_df - youtubers_df]
     GROUP BY Country
     ORDER BY avg_suscribers DESC
+
+
+## Data Analysis & Visualization Using Power BI
+### Results and Insights:
+
